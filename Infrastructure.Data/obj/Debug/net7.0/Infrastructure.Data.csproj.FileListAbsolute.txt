@@ -1,0 +1,15 @@
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.deps.json
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.dll
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\bin\Debug\net7.0\Infrastructure.Data.pdb
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\bin\Debug\net7.0\Domain.dll
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\bin\Debug\net7.0\Domain.pdb
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.csproj.CopyComplete
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.dll
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\refint\Infrastructure.Data.dll
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\Infrastructure.Data.pdb
+C:\Users\Tomisin\Downloads\Projects\.Net Projects\EcommerceWebApi\Infrastructure.Data\obj\Debug\net7.0\ref\Infrastructure.Data.dll

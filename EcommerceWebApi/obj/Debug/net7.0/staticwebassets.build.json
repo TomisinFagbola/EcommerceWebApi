@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "fozMwZHqLSN8dBzz3ssOJ44+96Qp2sleo/YCW1t0TzU=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\ConfirmEmail.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Templates/ConfirmEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\ConfirmEmail.html"
+    },
+    {
+      "Identity": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\ResetPassword.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Templates/ResetPassword.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\ResetPassword.html"
+    },
+    {
+      "Identity": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\SendOtp.html",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "Templates/SendOtp.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\SendOtp.html"
+    }
+  ]
+}

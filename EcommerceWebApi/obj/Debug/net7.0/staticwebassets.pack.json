@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\ConfirmEmail.html",
+      "PackagePath": "staticwebassets\\Templates\\ConfirmEmail.html"
+    },
+    {
+      "Id": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\ResetPassword.html",
+      "PackagePath": "staticwebassets\\Templates\\ResetPassword.html"
+    },
+    {
+      "Id": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\EcommerceWebApi\\wwwroot\\Templates\\SendOtp.html",
+      "PackagePath": "staticwebassets\\Templates\\SendOtp.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
