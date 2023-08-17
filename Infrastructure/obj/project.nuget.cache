@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0lS2cH5LK1jzHYnegwNJPN2/DrjMEQKoFgurb8QOgq7n+mzRrY5/8kdnHfwQR5mGpntZl0Av6FzddkzQXftaA==",
+  "dgSpecHash": "HjmiArkj3O4c3gS46bfNlcXpkGhXV/8K5in98AfPxjh3SNYJTJkze8n90D+KwjG2lCNqdkRlRntdqeZhO+4c4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomisin\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
     "C:\\Users\\Tomisin\\.nuget\\packages\\azure.storage.blobs\\12.17.0\\azure.storage.blobs.12.17.0.nupkg.sha512",

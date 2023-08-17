@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Do0+27f8yCiykOITloxraD21eYKUlTBJlOiIuS1YKQO/csRyFi2X/cGZ9jfic+23O/LeUM8gU/h1XWw20Bq3ag==",
+  "dgSpecHash": "YltNTuDSvAFDMJHiucmSHaaO5jZWm91m9DMLDg9cSTOd44TmTFctuFrYYRUcaMLy5v3PikPRfbYBPJeyK5hYUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomisin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Tomisin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

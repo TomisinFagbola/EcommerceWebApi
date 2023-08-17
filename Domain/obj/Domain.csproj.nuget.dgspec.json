@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj": {
+    "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Tomisin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",

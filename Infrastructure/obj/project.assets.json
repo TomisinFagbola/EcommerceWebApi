@@ -2284,11 +2284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Tomisin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomisin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2305,11 +2305,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Domain\\Domain.csproj"
+            "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-              "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\ECommerceWebApi\\Infrastructure.Data\\Infrastructure.Data.csproj"
+            "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Tomisin\\Downloads\\Projects\\.Net Projects\\EcommerceWebApi\\Infrastructure.Data\\Infrastructure.Data.csproj"
             }
           }
         }
